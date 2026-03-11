@@ -34,8 +34,7 @@
 - Data set utilizado para compor a planilha que foi analisada por nós foi [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), o mesmo é um dataset real e 1978, da região de Cleveland(EUA), Hungria e Suíça. 
 
 - [Planilha](https://drive.google.com/file/d/1ApK-Fz_jf0qs5LVpTiXzu1tXAhmeIJ_S/view?usp=drive_link)
-
-- [ECG]()
+- [ECG](https://drive.google.com/drive/folders/1FkWs9ZoCFr1QtZKsc4wljf9N5uj_i3DJ)
 
 ## 🏁 Conclusão
   - A partir do artigo <b><a href="Docs\Hipertensão na América Latina e no Caribe.docx">Hipertensão na ALC</a></b>  conclui-se que um dos fatores que se deve dar atenção é a pressão arterial(PA), por ser um termometro da saúde cardiovascular. A hipertensão arterial(HA) é um dos principais fatores para doenças cardiovasculares, tendo uma prevalência em áreas urbanas se comparado a áreas rurais, acredita-se na relação de doenças relacionadas ao extresse um catalizador para áreas urbanas. 
