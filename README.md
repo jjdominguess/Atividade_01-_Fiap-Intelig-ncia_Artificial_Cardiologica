@@ -46,8 +46,6 @@
 ## 📁 Estrutura de Pastas
 
 - <b><a href="Assets/">Assets/</a></b>: Imagens do projeto.
-- <b><a href="ECG/">Assets/ECG/</a></b>: Imagens do ECG.
-
 
 ## 🗃 Histórico de lançamentos
 
